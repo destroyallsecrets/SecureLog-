@@ -1,0 +1,6 @@
+{
+  "name": "Visitor Voice Logger",
+  "description": "A hands-free visitor check-in log powered by the Web Speech API.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
